@@ -1,0 +1,120 @@
+*{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+body {
+  margin: 0;
+}
+.image12{
+  margin:auto;
+  background-image: url('../assets/image.jpg');
+  height: 500px;
+  width: auto;
+  background-repeat: no-repeat;
+  background-position:center ;
+  background-size: cover;
+}
+.one-line{
+  font-size: 50px;
+  text-align: center;
+  margin: 50px auto;
+  color: #6363ef;
+  
+}
+.aboutus{
+  font-size: xx-large;
+  text-align: center;
+  color: #6363ef;
+
+}
+.info{
+  font-size: 20px;
+  text-align: center;
+  padding-top:10px ;
+  color: rgb(92, 133, 244);
+}
+.final-footer{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+}
+.left,.right{
+  display: inline-block;
+  border-radius: 20px ;
+  margin-left: 5px;
+  box-shadow: 1px 10px 8px 1px  #6363f4;
+  border-radius: 100px;
+}
+
+.left{
+  margin-right: 10px;
+  width: 50%;
+  float: left;
+  padding: 20px 20px 20px 20px;
+}
+.right{
+  margin-right :10px ;
+  width: 50%;
+  float: right;
+  padding: 20px 20px 20px 20px;
+}
+#heading{
+  font-size: 50px;
+  margin: 20px auto;
+  color: #6363ef;
+  text-align: center;
+}
+
+.heading-top{
+  font-size: x-large;
+  text-align: center;
+  color: #5d5dab;
+}
+#p1,#p2{
+  font-size: x-large;
+  color:  rgb(137, 154, 199);
+}
+.team-container{
+  margin: 5px 25px auto;
+  margin-right:50px;
+  padding: 200px auto;
+  text-align: center;
+  height: max-content;
+  margin: 50px 50px 50px 50px ;
+  padding: 50px 50px 50px 50px;
+  color: #6363f4;
+  border-radius: 100px;
+  box-shadow: 1px 10px 8px 1px  #6363f4;
+}
+.lister{
+  color:rgb(92, 133, 244);
+  text-align: left;
+  font-size: larger;
+  
+  height: max-content;
+  width: 40%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.team-img{
+  margin: 20px auto;
+  height: 300px;
+  width: fit-content;
+  border-radius: 50px;
+}
+.divide{
+  height: max-content;
+  border-radius: 20px;
+  text-align: center;
+}
+
+
+.new-final{
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 20px 20px 20px 20px ;
+  border-top: 1px solid black;
+  color: #5c7d8d;
+}
+

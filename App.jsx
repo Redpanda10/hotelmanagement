@@ -6,6 +6,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import LoginPage from "./pages/LoginPage";
 import Pricing from "./pages/Pricing";
+// import Newlogin from "./pages/Newlogin";
 
 function App() {
   return (
